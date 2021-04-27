@@ -1,7 +1,7 @@
 # ZypeLang - A OpenSource replacement for JSON
 
 <p align='center'>
-    <img height=200 width=200 src='favicon.png'>
+    <img height=200 width=200 src='https://raw.githubusercontent.com/Zype-Z/ZypeLang/main/favicon.png'>
 </p>
 
 [![Create PyPI Release](https://github.com/Zype-Z/ZypeLang/actions/workflows/ci.yaml/badge.svg)](https://github.com/Zype-Z/ZypeLang/actions/workflows/ci.yaml)
