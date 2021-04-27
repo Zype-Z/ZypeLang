@@ -25,7 +25,7 @@ pip install ZypeSDK # Replace pip with pip3 and/or add sudo according to your En
 ### Usage - ZypeSDK for Python
 
 ```python3
-import ZypeLang as zype
+import ZypeSDK as zype
 
 name = zype.Open("file.zype")['name']
 
