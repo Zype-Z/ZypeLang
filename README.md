@@ -4,6 +4,7 @@
     <img height=200 width=200 src='https://raw.githubusercontent.com/Zype-Z/ZypeLang/main/favicon.png'>
 </p>
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9fdcf71f2d104721b8bcb1536847c940)](https://app.codacy.com/gh/Zype-Z/ZypeLang?utm_source=github.com&utm_medium=referral&utm_content=Zype-Z/ZypeLang&utm_campaign=Badge_Grade_Settings)
 [![Create PyPI Release](https://github.com/Zype-Z/ZypeLang/actions/workflows/ci.yaml/badge.svg)](https://github.com/Zype-Z/ZypeLang/actions/workflows/ci.yaml)
 
 ZypeLang is a OpenSource replacement of JSON based on Python.
