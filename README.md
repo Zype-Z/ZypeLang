@@ -10,9 +10,9 @@ ZypeLang is a OpenSource replacement of JSON based on Python.
 
 ## Syntax
 
-<div style="background-color: black;">
-<a style="color: cyan">&lt;key&gt;</a> <a style="color: orange">"value"</a><a style="color: red;">;</a>
-</div>
+```
+<key> "value";
+```
 
 ## How to use it
 
@@ -37,9 +37,9 @@ print(name)
 ### Usage ZypeLang
 And in `file.zype`
 
-<div style="background-color: black;">
-<a style="color: cyan">&lt;name&gt;</a> <a style="color: orange">"Rajdeep Malakar"</a><a style="color: red;">;</a>
-</div>
+```
+<name> "Zype, Inc.";
+```
 
 ## Why to use
 
@@ -55,6 +55,6 @@ ZypeLang is easier & shorter than JSON
 
 To,
 
-<div style="background-color: black;">
-<a style="color: cyan">&lt;name&gt;</a> <a style="color: orange">"Rajdeep Malakar"</a><a style="color: red;">;</a>
-</div>
+```
+<name> "Rajdeep Malakar";
+```
