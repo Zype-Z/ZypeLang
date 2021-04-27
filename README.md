@@ -4,6 +4,8 @@
     <img height=200 width=200 src='favicon.png'>
 </p>
 
+[![Create PyPI Release](https://github.com/Zype-Z/ZypeLang/actions/workflows/ci.yaml/badge.svg)](https://github.com/Zype-Z/ZypeLang/actions/workflows/ci.yaml)
+
 ZypeLang is a OpenSource replacement of JSON based on Python.
 
 ## Syntax
