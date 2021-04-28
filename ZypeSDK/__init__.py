@@ -21,7 +21,6 @@ def Open(filename):
         content = content.replace(';', ',')
         content = content.replace('(', '{')
         content = content.replace(')', '  }')
-        content = content.replace("'", '"')
         return json.loads(content)
 
 def Write(key, value, filename):
