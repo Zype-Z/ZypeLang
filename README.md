@@ -11,7 +11,7 @@ ZypeLang is a OpenSource replacement of JSON based on Python.
 ## Syntax
 
 ```
-<key> "value";
+<key> "value"
 ```
 
 ## How to use it
@@ -45,7 +45,7 @@ And in `file.zype`
 
 ZypeLang is easier & shorter than JSON
 
-#### Example:
+### Example
 
 ```json
 {
@@ -56,5 +56,15 @@ ZypeLang is easier & shorter than JSON
 To,
 
 ```
-<name> "Rajdeep Malakar";
+<name> "Rajdeep Malakar"
+```
+
+**Note**: Don't add Semicolon on the Last line.
+
+## CLI
+
+**Zyper** is the official **CLI** of ZypeLang. To use it:
+
+```shell
+zyper <filename>
 ```

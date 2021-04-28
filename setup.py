@@ -25,5 +25,8 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.6'
+    python_requires='>=3.6',
+    entry_points=dict(
+        console_scripts=['zyper=ZypeSDK.__init__:Main']
+    )
 )
