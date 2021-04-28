@@ -1,0 +1,8 @@
+README.md
+setup.py
+ZypeSDK/__init__.py
+ZypeSDK.egg-info/PKG-INFO
+ZypeSDK.egg-info/SOURCES.txt
+ZypeSDK.egg-info/dependency_links.txt
+ZypeSDK.egg-info/entry_points.txt
+ZypeSDK.egg-info/top_level.txt
