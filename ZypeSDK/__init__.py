@@ -45,5 +45,3 @@ arg = sys.argv
 
 def Main():
     print(Open(arg[1]))
-
-main = Main()
