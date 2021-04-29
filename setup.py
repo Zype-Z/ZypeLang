@@ -10,11 +10,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 setuptools.setup(
     name="ZypeSDK",
-<<<<<<< HEAD
-    version="1.4",
-=======
-    version="1.5",
->>>>>>> b00b31bd11274e4c0916c69597ff6f721437a893
+    version="1.6",
     author="TechGeeks",
     author_email="ZypeSDK@tgeeks.cf",
     maintainer="Rajdeep Malakar",
