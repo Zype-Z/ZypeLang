@@ -1,3 +1,0 @@
-[console_scripts]
-zyper = ZypeSDK.__init__:Main
-
